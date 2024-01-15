@@ -1,4 +1,4 @@
-사이트 :
+웹 페이지 :
 https://kyungjun-kim.github.io/my_first_web_site/
 
 참고 링크
